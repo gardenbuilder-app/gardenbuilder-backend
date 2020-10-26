@@ -30,16 +30,16 @@ TYPEORM_ENTITIES = entities/*.[jt]s,modules/**/entities/*.[jt]
 
 ### To Run
 
-TODO: Add start instructions here
+1. If you haven't install the depencies run `npm install`
 
-Then navigate to [localhost:8000/graphql](http://localhost:8000/graphql).
+2. Start the server with `npm start`
+
+3. Then navigate to [localhost:8000/graphql](http://localhost:8000/graphql).
 You should see the graphiQL editor and be able to write queries like
 
 ```graphql
 query {
-  gardens {
-    name
-  }
+  hello
 }
 ```
 
