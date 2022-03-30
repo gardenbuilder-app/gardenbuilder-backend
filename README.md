@@ -52,4 +52,4 @@ Run `npm test` or `npm run test`. Tests also automatically run each time you try
 
 ## Contributing
 
-To Contribute, read our [Contribution Guidelines](https://github.com/gardenbuilder/gardenbuilder-backend-typescript/blob/master/CONTRIBUTING.md#contributing)
+To Contribute, read our [Contribution Guidelines](https://github.com/gardenbuilder-app/gardenbuilder-backend/blob/main/CONTRIBUTING.md)
